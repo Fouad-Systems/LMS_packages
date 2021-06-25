@@ -1,0 +1,18 @@
+{
+  "AppName": "LMS_Packages",
+  "App_NameSpace": "LMS",
+  "AreaName": "LMS",
+  "IsPackages": true,
+  "IsUpdatePackages": true,
+  "AppComponents_Dependencies": [
+    "GApp",
+    "GApp_Dev",
+    "Theme_GApp",
+    "Theme_Gentelella",
+    "Theme_Canvas6",
+    "SystemApp",
+    "SaasApp",
+    "CMS",
+    "Cplus_Absences"
+  ]
+}
